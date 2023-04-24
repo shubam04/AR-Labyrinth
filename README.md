@@ -1,2 +1,4 @@
 # AR-Labyrinth
 AR Maze Game is a digital game that utilises augmented reality technology to provide an immersive and interactive gaming experience. The game involves navigating a maze using a mobile device's camera and sensors to detect the player's movements in the physical world.  The game incorporates graphics and audio effects to create a virtual environment that blends seamlessly with the real world, providing an unparalleled gaming experience. The game offers several levels of difficulty and challenges, allowing players to test their navigation skills and problem-solving abilities.  The project involves developing the game using Unity 3D, Vuforia, and other tools and technologies. The game is designed to be intuitive, engaging, and fun for players of all ages, and aims to showcase the potential of augmented reality technology in gaming and entertainment.
+
+Demo Link:https://drive.google.com/file/d/1wDC7bMvhXZuSqP9vTx9TpSiLSQRvBT98/view?usp=sharing
